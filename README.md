@@ -1,4 +1,4 @@
-# turing
+# webs_deploy
 Auto deploy web apps
 The whole process should be automated. It should run by a single command.
 One physical hosting should be able to host multi web applications (containers).
